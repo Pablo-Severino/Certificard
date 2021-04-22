@@ -1,3 +1,3 @@
 # Certificard
 
-Criado na ultima aula da ImnesãoDev da alura.
+Criado na ultima aula da ImersãoDev da alura.
